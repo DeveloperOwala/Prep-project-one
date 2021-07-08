@@ -1,0 +1,16 @@
+.home {
+   display: flex;
+    background-color: black;
+   justify-content: space-between;
+    padding-left: 1000px;
+   
+}
+.home>p{
+    font-size:x-large;  
+}
+a:link{
+ text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
