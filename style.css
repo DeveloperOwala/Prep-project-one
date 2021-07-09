@@ -50,10 +50,23 @@ h1{
 .contactUs{
     display: flex;
     /* padding: 20px 150px 30px 20px; */
+    margin: 20px;
 }
+.subscribe{
+    /* display: flex; */
+    margin-left: 330px;
+    justify-content: space-around;  
+}
+
+
 .footer{
     background-color: teal;
+    height: 280px;
    
+   
+}
+.Follow-us{
+    margin-left: 480px;
 }
 .Follow-us li{
     justify-content: space-between;
