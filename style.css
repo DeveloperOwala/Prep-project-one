@@ -48,16 +48,16 @@ h1{
     margin: 20px;
 }
 .contactUs{
-    /* display: flex; */
+    display: flex;
     /* padding: 20px 150px 30px 20px; */
 }
 .footer{
     background-color: teal;
    
-   
 }
 .Follow-us li{
     justify-content: space-between;
+    
 }
 .Follow-us img{
     width: 20px;
