@@ -1,5 +1,7 @@
 nav{
-    background-position: initial;
+    position: sticky;
+    top: 0.1px;
+    
     display: flex;
     background-color:teal;
     /* justify-content: space-between;
@@ -55,10 +57,10 @@ a:link{
     padding: 20px;
 }
 
-.projectTitle{
+/* .projectTitle{
     color: brown;
     text-align: center;
-}
+} */
 
 .myProjects{
     display: flex;
@@ -153,4 +155,15 @@ a:link{
 #icon{
     padding-left: 10px;
     color: black;
+}
+@media screen and (max-width:1200px){
+    .home{
+        display: flex;
+        padding: 0px 10rem;
+    }
+}
+@media screen and (max-width:500px){
+    .home>p{
+        padding: 5px;
+    }
 }
