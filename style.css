@@ -33,27 +33,39 @@ h1{
 }
 .myProjects{
     display: flex;
-   
 }
 .scholarship-hub{
     border-radius: 10px;
-    border: 0.1px solid rgba(0, 0, 0, 0.4);
+    border: 0.1px solid black;
     padding: 20px;
     margin: 20px;
+    background-color: black;
+    opacity: 0.8;
+    color: whitesmoke;
+}
+.scholarship-hub a{
+    color: white;
+    border-radius: 10px;
+    margin-left: 270px;
+    padding: 10px;
+    background-color:green;
+    
+}
+.scholarship-hub a:hover{
+    background-color: red;
 }
 .Anitas-Kitchen{
     border-radius: 10px;
-    border: 0.1px solid rgba(0, 0, 0, 0.4);
+    border: 0.1px solid blue;
     padding: 20px;
     margin: 20px;
 }
 .contactUs{
     display: flex;
-    /* padding: 20px 150px 30px 20px; */
     margin: 20px;
 }
 .subscribe{
-    /* display: flex; */
+  
     margin-left: 330px;
     justify-content: space-around;  
 }
