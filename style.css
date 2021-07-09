@@ -3,8 +3,7 @@
 }
 .home {
    display: flex;
-    background-color: #000;
-    opacity: 0.7;
+    background-color:teal;
    justify-content: space-between;
    padding: 0px 10px 0px 1000px;
 }
@@ -20,11 +19,40 @@ ul{
 }
 .image{
    display: flex;
+   justify-content: space-between;
    padding: 20px 0px 20px 20px;
+   background-color: rgb(144, 153, 153);
+   position: static;
+}
+.img{
+    padding: 20px 0px 20px 20px;
+    /* margin-left: 200px; */
+}
+h1{
+    color: blueviolet;
 }
 .myProjects{
     display: flex;
+   
+}
+.scholarship-hub{
+    border-radius: 10px;
+    border: 0.1px solid rgba(0, 0, 0, 0.4);
+    padding: 20px;
+    margin: 20px;
+}
+.Anitas-Kitchen{
+    border-radius: 10px;
+    border: 0.1px solid rgba(0, 0, 0, 0.4);
+    padding: 20px;
+    margin: 20px;
 }
 .contactUs{
-    display: flex;
+    /* display: flex; */
+    /* padding: 20px 150px 30px 20px; */
+}
+.footer{
+    background-color: teal;
+   
+   
 }
