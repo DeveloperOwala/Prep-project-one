@@ -56,9 +56,22 @@ h1{
 }
 .Anitas-Kitchen{
     border-radius: 10px;
-    border: 0.1px solid blue;
     padding: 20px;
     margin: 20px;
+    background-color: black;
+    opacity: 0.8;
+    color: whitesmoke;
+}
+.Anitas-Kitchen a{
+    color: white;
+    border-radius: 10px;
+    margin-left: 270px;
+    padding: 10px;
+    background-color:green;
+    
+}
+.Anitas-Kitchen a:hover{
+    background-color: red;
 }
 .contactUs{
     display: flex;
