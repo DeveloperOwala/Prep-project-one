@@ -10,7 +10,7 @@
 * Click install file
 * Once installed, application will automatically run
 ## link to live site on GitHub Pages
-{http://127.0.0.1:5500/index.html}
+{https://developerowala.github.io/Prep-project-one/}
 ## Known Bugs
 {This application is responsive to different device screen sizes though users are encouraged to improve the display of this web page to devices that are not responding to this particular application}
 ## Technologies Used
