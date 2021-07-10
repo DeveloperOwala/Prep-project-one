@@ -9,7 +9,11 @@
 * Open the extracted Zip file
 * Click install file
 * Once installed, application will automatically run
+<<<<<<< HEAD
 ## Link to live site on GitHub Pages
+=======
+## link to live site on GitHub Pages
+>>>>>>> main
 {https://developerowala.github.io/Prep-project-one/}
 ## Known Bugs
 {This application is responsive to different device screen sizes though users are encouraged to improve the display of this web page to devices that are not responding to this particular application}
