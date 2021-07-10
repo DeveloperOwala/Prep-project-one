@@ -162,8 +162,65 @@ a:link{
         padding: 0px 10rem;
     }
 }
-@media screen and (max-width:500px){
-    .home>p{
+@media screen and (max-width:1200px){
+    .myProfile{
         padding: 5px;
+        font-size: 10px;
+    }
+    .myProfile img{
+        width: 250px;
+        height: 250px;
+    }
+    .myProjects{
+        font-size: 10px;
+    }
+    .footer{
+        font-size: 10px;
+    }
+    .Follow-us{
+        margin-left: 180px;
+    }
+    .subscribe{
+        margin-left: 50px;
     }
 }
+@media screen and (max-width:1411px){
+    .home{
+        padding-left: 550px;
+    }
+    .myProfile{
+        font-size: 10px;
+    }
+    .myProfile img{
+        height: 300px;
+        width: 300px;
+    }
+    .myProjects{
+        font-size: 10px;
+    }
+    .footer{
+        font-size: 15px;
+    }
+    .Follow-us{
+        margin-left: 250px;
+    }
+    .subscribe{
+        margin-left: 150px;
+    }
+}
+@media screen and (max-width:1050px){
+    .home{
+        padding-left: 300px;
+    }
+    .myProfile img{
+        height: 170px;
+         width: 170px;
+    }
+    .Follow-us{
+        margin-left: 30px;
+    }
+    .subscribe{
+        margin-left: 20px;
+    }
+}
+
