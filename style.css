@@ -4,8 +4,6 @@ nav{
     
     display: flex;
     background-color:teal;
-    /* justify-content: space-between;
-    padding: 0px 10px 0px 1000px; */
 }
 #imageLogo{
     height: 100px;
@@ -19,9 +17,8 @@ nav{
 
 .home {
     display: flex;
-    /* background-color:teal; */
     justify-content: space-between;
-    padding: 0px 60px 0px 1000px;
+    padding-left: 1000px;
     
 }
 .home>p{
@@ -51,16 +48,10 @@ a:link{
     margin: 20px;
 }
 .myProfile img{
-    /* float: left; */
     width: 350px;
     height: 400px;
     padding: 20px;
 }
-
-/* .projectTitle{
-    color: brown;
-    text-align: center;
-} */
 
 .myProjects{
     display: flex;
