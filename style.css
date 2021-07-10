@@ -192,8 +192,11 @@ a:link{
         font-size: 10px;
     }
     .myProfile img{
-        height: 300px;
-        width: 300px;
+        height: 200px;
+        width: 200px;
+    }
+     .myProfile{
+        font-size: 10px;
     }
     .myProjects{
         font-size: 10px;
@@ -221,6 +224,36 @@ a:link{
     }
     .subscribe{
         margin-left: 20px;
+    }
+    .scholarship-hub a{
+        margin-left: 10px;
+     }
+     .Anitas-Kitchen a{
+         margin-left: 10px;
+     }
+}
+@media screen and (max-width:800px) {
+    .home{
+        padding-left: 30px;
+    }
+    .myProfile img{
+        height: 120px;
+         width: 120px;
+    }
+    .scholarship-hub a{
+       margin-left: 10px;
+    }
+    .Anitas-Kitchen a{
+        margin-left: 10px;
+    }
+    .footer{
+        font-size: 10px;
+    }
+    .Follow-us{
+        margin-left: 10px;
+    }
+    .subscribe{
+        margin-left: 10px;
     }
 }
 
