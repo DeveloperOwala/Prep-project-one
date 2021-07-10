@@ -262,6 +262,9 @@ a:link{
         font-size: 10px;
         padding-left: 2px;
     }
+    .home a{
+       font-size: 20px;
+    }
     .myProfile img{
         height: 100px;
          width: 70px;
