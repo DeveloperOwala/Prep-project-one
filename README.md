@@ -14,7 +14,11 @@
 ## Known Bugs
 {This application is responsive to different device screen sizes though users are encouraged to improve the display of this web page to devices that are not responding to this particular application}
 ## Technologies Used
-{I used bootsrap in styling this webpage}
+{  .Javascript
+   .HTML
+   . CSS 
+   . Bootrap
+   }
 ## Support and contact details
 {Email Contact: otienoerick46@gmail.com}
 ### License
